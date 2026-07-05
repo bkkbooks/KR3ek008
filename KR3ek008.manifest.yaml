@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek008_000.yaml, hash: 'sha256:b2cbdb9965561c18d59474f9ca27451f4f1cd112a63c2af4a9d9cbc61878dabe'}
+  - {seq: 0, filename: KR3ek008_000.yaml, hash: 'sha256:bbfc37c9072d48b33e3ab708d0198fea0bb77ec1bef20bfa2ec1418e2294e7ab'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek008_000.markers.yaml, hash: 'sha256:96633d57abc563dac6b6e4eca914ec3c1afb356bd03bffea19ab0667537ff4b3'}
+  - {seq: 0, role: markers, filename: assets/KR3ek008_000.markers.yaml, hash: 'sha256:8d2f35d091732503ed10fa0be8426d9b3c1409181bb6b3cbc434cf321133983d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2221,7 +2221,4 @@ table_of_contents:
   label: 許恆君傳用法附
   type: section
   level: 1
-hash: sha256:2584cc110d55d5c824d4cbafdaaab9b823e1182325e1eabfe52a97af68dff179
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a83915cafc091b13dff553fecea6eca73250a090b272c11d61bc635813301bb3
