@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ek008/v1
 canonical_location: https://kanripo.org/bkk/KR3ek008/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 外科傳薪集
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek008_000.yaml, hash: 'sha256:bbfc37c9072d48b33e3ab708d0198fea0bb77ec1bef20bfa2ec1418e2294e7ab'}
+  - {seq: 0, filename: KR3ek008_000.yaml, hash: 'sha256:1c591ccf477dad8b1f5e1388bbd9f71e00f973b3d1cd1b71cf5ee78379a0fad6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek008_000.markers.yaml, hash: 'sha256:8d2f35d091732503ed10fa0be8426d9b3c1409181bb6b3cbc434cf321133983d'}
+  - {seq: 0, role: markers, filename: assets/KR3ek008_000.markers.yaml, hash: 'sha256:5025f5dca082de325de1ea5d4fb760e020fe480a2114ec48b219a391b4b2a870'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2221,4 +2221,7 @@ table_of_contents:
   label: 許恆君傳用法附
   type: section
   level: 1
-hash: sha256:a83915cafc091b13dff553fecea6eca73250a090b272c11d61bc635813301bb3
+hash: sha256:4dbcb7a1795949ac04af3186268dc22d28973ad73b52b722cd071af7c970ed7a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
