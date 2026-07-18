@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ek008_000.yaml, hash: 'sha256:1c591ccf477dad8b1f5e1388bbd9f71e00f973b3d1cd1b71cf5ee78379a0fad6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek008_000.markers.yaml, hash: 'sha256:5025f5dca082de325de1ea5d4fb760e020fe480a2114ec48b219a391b4b2a870'}
+  - {seq: 0, role: markers, filename: assets/KR3ek008_000.markers.yaml, hash: 'sha256:d803bb1b4b0f8ffb3a712eb6f9a44ae614ebf8ac4aba68aed4e63e5d5c53dc6d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2221,7 +2221,7 @@ table_of_contents:
   label: 許恆君傳用法附
   type: section
   level: 1
-hash: sha256:4dbcb7a1795949ac04af3186268dc22d28973ad73b52b722cd071af7c970ed7a
+hash: sha256:1d708f9a8b269721e50218acd4cf4a604b49945b02068b5370e28ba45ef2ec14
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ek008_000-jc.yaml, hash: 'sha256:bbfc37c9072d48b33e3ab708d0198fea0bb77ec1bef20bfa2ec1418e2294e7ab'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek008_000-jc.markers.yaml, hash: 'sha256:b97fa0b2abd3d64f10d51643e4a512c5fd65e367ed427eb847b522861b54127c'}
+  - {seq: 0, role: markers, filename: assets/KR3ek008_000-jc.markers.yaml, hash: 'sha256:62d2ddae3888cb1ef6d0874019d476ff87eac847dc02d1be07b304bf7f6da7d3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2221,4 +2221,4 @@ table_of_contents:
   label: 許恆君傳用法附
   type: section
   level: 1
-hash: sha256:f3e13f951a900ca63dd29fec9313e0968933b3103eb04314a5c41b0537ba7bb0
+hash: sha256:a85536f29cb64d42ae5324bfc017481be6bb5dfd59cdd922d839ba9d59deae25
